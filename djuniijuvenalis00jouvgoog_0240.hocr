@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./djuniijuvenalis00jouvgoog/djuniijuvenalis00jouvgoog_0240.png"; bbox 0 0 3050 4884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 481 1768 2528 1933">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 481 1768 2528 1933">
+     <span class='ocr_line' id='line_1_1' title="bbox 481 1768 2528 1933; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 481 1776 661 1929; x_wconf 93' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 731 1778 823 1929; x_wconf 86' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_3' title='bbox 829 1774 1287 1931; x_wconf 90' lang='lat' dir='ltr'><strong>UNII</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1362 1776 1454 1927; x_wconf 86' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_5' title='bbox 1464 1768 2528 1933; x_wconf 85' lang='lat' dir='ltr'><strong>UVENALIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1258 2108 1754 2180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1258 2108 1754 2180">
+     <span class='ocr_line' id='line_1_2' title="bbox 1258 2108 1754 2180; baseline 0 -13"><span class='ocrx_word' id='word_1_6' title='bbox 1258 2108 1754 2180; x_wconf 79' lang='lat' dir='ltr'><strong>AAAAAAAAA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 630 2298 2062 2737">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 630 2298 2062 2737">
+     <span class='ocr_line' id='line_1_3' title="bbox 630 2298 2062 2466; baseline 0.004 -6"><span class='ocrx_word' id='word_1_7' title='bbox 630 2298 635 2305; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 950 2334 2062 2466; x_wconf 80' lang='lat' dir='ltr'><strong>SATIRARUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1088 2636 1887 2737; baseline 0.005 -24"><span class='ocrx_word' id='word_1_9' title='bbox 1088 2636 1387 2715; x_wconf 79' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_10' title='bbox 1430 2638 1887 2737; x_wconf 84' lang='lat' dir='ltr'>QUINTUS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
